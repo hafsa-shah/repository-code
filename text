@@ -2,3 +2,5 @@ Designed to help you master the basics of GitHub, whether you're new to coding o
 
 githubb git cloud hub
 A virtual machine (VM) is a software-based emulation of a physical computer that runs an operating system and applications just like a separate machine. It relies on a hypervisor to partition physical resources (CPU, memory, storage) from a host computer, allowing multiple, isolated VMs to operate independently. Common uses include running different OSs, testing software,
+
+branching
